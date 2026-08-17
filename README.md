@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>✨ Caro Ujueta ✨</h1>
+  <h1> Caro Ujueta </h1>
   <p><i>Estudiante de Ingeniería de Sistemas (PUJ) | Software Developer</i></p>
 
   <img src="https://komarev.com/ghpvc/?username=CaroUjueta&color=6e40c9&style=flat-square&label=Profile+Views" alt="Profile Views" />
@@ -9,11 +9,9 @@
 
 ### 👩🏻‍💻 Sobre Mí
 
-* 🎓 Estudiante de **Ingeniería de Sistemas** en la **Pontificia Universidad Javeriana**.
-* 💻 Interesada en el **desarrollo de software**, especialmente en aplicaciones web, móviles y soluciones relacionadas con **computación visual**.
-* 🧠 Experiencia académica y práctica en **estructuras de datos, bases de datos, ingeniería de software y sistemas operativos**.
-* ⚙️ He trabajado con **Python, C y Java**, además de herramientas y frameworks para desarrollo web, procesamiento de imágenes y aplicaciones móviles.
-* 🔍 Me interesa desarrollar soluciones que combinen **software, procesamiento de datos y visión por computador**.
+* 🎓 Estudiante de Ingeniería de Sistemas en la Pontificia Universidad Javeriana.
+* 💻 Interesada en el desarrollo de software, especialmente en aplicaciones web, móviles y soluciones relacionadas con computación visual.
+* 🔍 Me interesa desarrollar soluciones que combinen software, procesamiento de datos y visión por computador.
 
 ---
 
@@ -71,7 +69,7 @@
 ### 🌱 Actualmente Aprendiendo
 
 * Desarrollo de aplicaciones web y móviles.
-* **Computación visual y visión por computador.**
+* Computación visual y visión por computador.
 * Arquitectura y diseño de software.
 * Desarrollo de soluciones con procesamiento de imágenes y datos.
 * Mejores prácticas de desarrollo y trabajo colaborativo con Git.
@@ -84,10 +82,7 @@
   <a href="https://github.com/CaroUjueta">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://linkedin.com/in/tu-perfil">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:tu-correo@ejemplo.com">
+  <a href="mailto:carouju1014@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
