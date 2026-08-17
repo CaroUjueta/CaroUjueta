@@ -1,5 +1,5 @@
 <div align="center">
-  <h1> Caro Ujueta </h1>
+  <h1> ☆ Caro Ujueta ☆ </h1>
   <p><i>Estudiante de Ingeniería de Sistemas (PUJ) | Software Developer</i></p>
 
   <img src="https://komarev.com/ghpvc/?username=CaroUjueta&color=6e40c9&style=flat-square&label=Profile+Views" alt="Profile Views" />
