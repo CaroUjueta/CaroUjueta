@@ -60,8 +60,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CaroUjueta&show_icons=true&theme=dracula&hide_border=true&title_color=bd93f9&icon_color=ff79c6" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaroUjueta&layout=compact&theme=dracula&hide_border=true&title_color=bd93f9" width="48%" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=CaroUjueta&show_icons=true&theme=dracula&hide_border=true&title_color=bd93f9&icon_color=ff79c6&cache_seconds=86400" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaroUjueta&layout=compact&theme=dracula&hide_border=true&title_color=bd93f9&cache_seconds=86400" width="48%" alt="Top Languages" />
 </p>
 
 <p align="center">
