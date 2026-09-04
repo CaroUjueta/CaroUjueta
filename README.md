@@ -91,4 +91,4 @@
   </a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6e40c9&height=100&section=footer" width="100%"/>
+<img src="assets/footer.svg" width="100%"/>
