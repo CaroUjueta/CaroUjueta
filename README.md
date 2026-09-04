@@ -1,8 +1,9 @@
 <div align="center">
-  <h1> ☆ Caro Ujueta ☆ </h1>
-  <p><i>Estudiante de Ingeniería de Sistemas (PUJ) | Software Developer</i></p>
 
-  <img src="https://komarev.com/ghpvc/?username=CaroUjueta&color=6e40c9&style=flat-square&label=Profile+Views" alt="Profile Views" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6e40c9&height=200&section=header&text=Caro%20Ujueta&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Estudiante%20de%20Ingenier%C3%ADa%20de%20Sistemas%20%7C%20Software%20Developer&descAlignY=55&descSize=18" width="100%"/>
+
+<img src="https://komarev.com/ghpvc/?username=CaroUjueta&color=6e40c9&style=flat-square&label=Profile+Views" alt="Profile Views" />
+
 </div>
 
 <br/>
@@ -15,7 +16,7 @@
 
 ---
 
-### 🛠️ Tecnologías & Herramientas
+### ⭐ Tecnologías & Herramientas
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -29,7 +30,6 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
 </p>
-```
 
 ### 📚 Áreas de Conocimiento
 
@@ -57,11 +57,15 @@
 
 ---
 
-### 📊 GitHub
+### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=CaroUjueta&show_icons=true&theme=dracula&hide_border=true&title_color=bd93f9&icon_color=ff79c6" width="48%" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaroUjueta&layout=compact&theme=dracula&hide_border=true&title_color=bd93f9" width="48%" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CaroUjueta&theme=dracula&hide_border=true&background=00000000&ring=bd93f9&fire=ff79c6" alt="GitHub Streak" />
 </p>
 
 ---
@@ -86,3 +90,5 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6e40c9&height=100&section=footer" width="100%"/>
