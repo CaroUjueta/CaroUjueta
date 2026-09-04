@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6e40c9&height=200&section=header&text=Caro%20Ujueta&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Estudiante%20de%20Ingenier%C3%ADa%20de%20Sistemas%20%7C%20Software%20Developer&descAlignY=55&descSize=18" width="100%"/>
+<img src="assets/header.svg" width="100%"/>
 
 <img src="https://komarev.com/ghpvc/?username=CaroUjueta&color=6e40c9&style=flat-square&label=Profile+Views" alt="Profile Views" />
 
